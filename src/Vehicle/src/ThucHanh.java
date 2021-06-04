@@ -1,8 +1,8 @@
-package ThucHanh.src;
+//package Vehicle.src;
 
 import java.util.*;
 
-class Vehicle {
+abstract class Vehicle {
   String numberSign;
   String color;
   String source;
@@ -19,9 +19,7 @@ class Vehicle {
     this.source = source;
   }
 
-  float Cash() {
-    return 0f;
-  }
+  abstract float Cash();
 
   void input() {
     Scanner sc = new Scanner(System.in);
@@ -75,18 +73,25 @@ class Car extends Vehicle {
     System.out.print("priceWithoutVAT: ");
     this.priceWithoutVAT = sc.nextFloat();
   }
+
+  void output() {
+    super.output();
+    System.out.println("Cash: " + priceWithVAT);
+  }
 }
 
 class CarList {
   void inputCar(Car list[], int n) {
     for (int i = 0; i < n; i++) {
       list[i] = new Car();
+      System.out.println("Car " + "[" + (i + 1) + "]" + ": ");
       list[i].input();
     }
   }
 
   void outputCar(Car list[], int n) {
     for (int i = 0; i < n; i++) {
+      System.out.print("Car " + "[" + (i + 1) + "]" + ": ");
       list[i].output();
     }
   }
@@ -101,6 +106,10 @@ class CarList {
           list[j] = temp;
         }
       }
+    }
+    System.out.println("Sorting list of cars increases by the price with VAT: ");
+    for (int i = 0; i < n; i++) {
+      list[i].output();
     }
   }
 
@@ -117,12 +126,6 @@ class CarList {
     for (int i = 0; i < n; i++) {
       if (list[i].priceWithoutVAT > max) {
         max = list[i].priceWithoutVAT;
-      }
-    }
-    System.out.printf("Information of the cars that have the highest price without VAT: ");
-    for (int i = 0; i < n; i++) {
-      if (list[i].priceWithoutVAT == max) {
-        list[i].output();
       }
     }
   }
@@ -144,7 +147,9 @@ class CarList {
 public class ThucHanh {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    int n = 2;
+    int n;
+    System.out.print("Nhap so luong xe: ");
+    n = sc.nextInt();
     Car car[] = new Car[n + 1];
     CarList list = new CarList();
     list.inputCar(car, n);

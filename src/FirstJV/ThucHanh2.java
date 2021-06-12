@@ -1,3 +1,5 @@
+package FirstJV;
+
 import java.util.Scanner;
 
 public class ThucHanh2 {

@@ -22,11 +22,6 @@ public abstract class Employee {
 		this.code = code;
 	}
 
-	public Employee(String name, int id) {
-		this.id = id;
-		this.name = name;
-	}
-
 	public void input() {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter id: ");

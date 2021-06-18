@@ -2,7 +2,7 @@ package Vehicle;
 
 import java.util.*;
 
-public class Vehicle {
+public abstract class Vehicle {
 
   String numberSign;
 

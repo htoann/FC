@@ -9,4 +9,5 @@ public class App {
         System.out.println("\n------File Out------\n");
         x.Xuat();
         sc.close();
+    }
 }

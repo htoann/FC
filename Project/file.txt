@@ -1,0 +1,1463 @@
+| 10:16:50 | 16/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 1
+[ChuyenXeNoiThanh] So xe: 1
+[ChuyenXeNoiThanh] Ho ten tai xe: Captain Prox
+[ChuyenXeNoiThanh] Doanh thu: 1.000000
+[ChuyenXeNoiThanh] So tuyen: 1
+[ChuyenXeNoiThanh] So km di duoc: 1.000000
+
+[ChuyenXeNgoaiThanh] Ma so chuyen: 2
+[ChuyenXeNgoaiThanh] So xe: 2
+[ChuyenXeNgoaiThanh] Ho ten tai xe: Prox Never Die
+[ChuyenXeNgoaiThanh] Doanh thu: 2.000000
+[ChuyenXeNgoaiThanh] Noi den: 2
+[ChuyenXeNgoaiThanh] So ngay di duoc: 2
+
+[ChuyenXeNoiThanh] Ma so chuyen: 3
+[ChuyenXeNoiThanh] So xe: 3
+[ChuyenXeNoiThanh] Ho ten tai xe: Prox Alexander
+[ChuyenXeNoiThanh] Doanh thu: 3.000000
+[ChuyenXeNoiThanh] So tuyen: 3
+[ChuyenXeNoiThanh] So km di duoc: 3.000000
+
+| 16:34:22 | 16/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 1
+[ChuyenXeNoiThanh] So xe: 123
+[ChuyenXeNoiThanh] Ho ten tai xe: Captain Prox
+[ChuyenXeNoiThanh] Doanh thu: 1.000000
+[ChuyenXeNoiThanh] So tuyen: 1
+[ChuyenXeNoiThanh] So km di duoc: 1.000000
+
+[ChuyenXeNgoaiThanh] Ma so chuyen: 1
+[ChuyenXeNgoaiThanh] So xe: 2
+[ChuyenXeNgoaiThanh] Ho ten tai xe: Prox Never Die
+[ChuyenXeNgoaiThanh] Doanh thu: 2.000000
+[ChuyenXeNgoaiThanh] Noi den: 2
+[ChuyenXeNgoaiThanh] So ngay di duoc: 2
+
+[ChuyenXeNgoaiThanh] Ma so chuyen: 3
+[ChuyenXeNgoaiThanh] So xe: 3
+[ChuyenXeNgoaiThanh] Ho ten tai xe: Aoma Sakashi
+[ChuyenXeNgoaiThanh] Doanh thu: 3.000000
+[ChuyenXeNgoaiThanh] Noi den: 3
+[ChuyenXeNgoaiThanh] So ngay di duoc: 3
+
+| 16:46:24 | 16/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 4
+[ChuyenXeNoiThanh] So xe: 4
+[ChuyenXeNoiThanh] Ho ten tai xe: Pox Edeca Prime
+[ChuyenXeNoiThanh] Doanh thu: 4.000000
+[ChuyenXeNoiThanh] So tuyen: 4
+[ChuyenXeNoiThanh] So km di duoc: 4.000000
+
+| 16:53:18 | 16/11/2021
+| 17:18:39 | 16/11/2021
+[ChuyenXeNgoaiThanh] Ma so chuyen: 1
+[ChuyenXeNgoaiThanh] So xe: 2
+[ChuyenXeNgoaiThanh] Ho ten tai xe: prox
+[ChuyenXeNgoaiThanh] Doanh thu: 2.000000
+[ChuyenXeNgoaiThanh] Noi den: 2
+[ChuyenXeNgoaiThanh] So ngay di duoc: 2
+
+| 16:13:19 | 17/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+| 16:13:46 | 17/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+
+[ChuyenXeNoiThanh] Ma so chuyen: 0
+[ChuyenXeNoiThanh] So xe: 
+[ChuyenXeNoiThanh] Ho ten tai xe: 
+[ChuyenXeNoiThanh] Doanh thu: 0.000000
+[ChuyenXeNoiThanh] So tuyen: 0
+[ChuyenXeNoiThanh] So km di duoc: 0.000000
+

@@ -1,0 +1,52 @@
+| 10:16:50 | 16/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 1
+[ChuyenXeNoiThanh] So xe: 1
+[ChuyenXeNoiThanh] Ho ten tai xe: Captain Prox
+[ChuyenXeNoiThanh] Doanh thu: 1.000000
+[ChuyenXeNoiThanh] So tuyen: 1
+[ChuyenXeNoiThanh] So km di duoc: 1.000000
+
+[ChuyenXeNgoaiThanh] Ma so chuyen: 2
+[ChuyenXeNgoaiThanh] So xe: 2
+[ChuyenXeNgoaiThanh] Ho ten tai xe: Prox Never Die
+[ChuyenXeNgoaiThanh] Doanh thu: 2.000000
+[ChuyenXeNgoaiThanh] Noi den: 2
+[ChuyenXeNgoaiThanh] So ngay di duoc: 2
+
+[ChuyenXeNoiThanh] Ma so chuyen: 3
+[ChuyenXeNoiThanh] So xe: 3
+[ChuyenXeNoiThanh] Ho ten tai xe: Prox Alexander
+[ChuyenXeNoiThanh] Doanh thu: 3.000000
+[ChuyenXeNoiThanh] So tuyen: 3
+[ChuyenXeNoiThanh] So km di duoc: 3.000000
+
+| 16:34:22 | 16/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 1
+[ChuyenXeNoiThanh] So xe: 123
+[ChuyenXeNoiThanh] Ho ten tai xe: Captain Prox
+[ChuyenXeNoiThanh] Doanh thu: 1.000000
+[ChuyenXeNoiThanh] So tuyen: 1
+[ChuyenXeNoiThanh] So km di duoc: 1.000000
+
+[ChuyenXeNgoaiThanh] Ma so chuyen: 1
+[ChuyenXeNgoaiThanh] So xe: 2
+[ChuyenXeNgoaiThanh] Ho ten tai xe: Prox Never Die
+[ChuyenXeNgoaiThanh] Doanh thu: 2.000000
+[ChuyenXeNgoaiThanh] Noi den: 2
+[ChuyenXeNgoaiThanh] So ngay di duoc: 2
+
+[ChuyenXeNgoaiThanh] Ma so chuyen: 3
+[ChuyenXeNgoaiThanh] So xe: 3
+[ChuyenXeNgoaiThanh] Ho ten tai xe: Aoma Sakashi
+[ChuyenXeNgoaiThanh] Doanh thu: 3.000000
+[ChuyenXeNgoaiThanh] Noi den: 3
+[ChuyenXeNgoaiThanh] So ngay di duoc: 3
+
+| 19:10:28 | 17/11/2021
+[ChuyenXeNoiThanh] Ma so chuyen: 1
+[ChuyenXeNoiThanh] So xe: 1
+[ChuyenXeNoiThanh] Ho ten tai xe: 1
+[ChuyenXeNoiThanh] Doanh thu: 1.000000
+[ChuyenXeNoiThanh] So tuyen: 1
+[ChuyenXeNoiThanh] So km di duoc: 1.000000
+
